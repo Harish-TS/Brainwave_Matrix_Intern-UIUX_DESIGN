@@ -1,3 +1,9 @@
+
+So here are four different UIUX designs for websites 
+
+For previewing purpose i have given only the main page here and rest are in the above folders and to see the raw design i have provided the figma link also
+
+
 TASK -1 (DESIGN -1) : -
 
 https://www.figma.com/design/OUVgXNlH7Te2NrBsjPgJQ7/TASK---1-(DESIGN---1)?node-id=0-1&t=QRXgboF62cjyLNGv-1
